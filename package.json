@@ -1,0 +1,8 @@
+{
+  "name": "table",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "@lumel/table": "^0.0.9"
+  }
+}
